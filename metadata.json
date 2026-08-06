@@ -1,0 +1,8 @@
+{
+  "name": "Sales CRM",
+  "description": "Sales CRM app for managing leads, deals, pipeline, and compensation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
